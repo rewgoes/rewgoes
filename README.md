@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Jetpack Compose" height="30" width="40" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png">
+  <img align="center" alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Jetpack Compose" height="40" width="40" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png">
 
 </div>
 
